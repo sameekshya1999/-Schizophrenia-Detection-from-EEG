@@ -146,15 +146,7 @@ The pipeline generates:
 - CORAL (Correlation Alignment) for distribution matching
 - MMD (Maximum Mean Discrepancy) for domain shift quantification
 
-## Citation
 
-If you use this code, please cite:
-
-```
-Lawhern, V. J., et al. (2018). EEGNet: a compact convolutional neural
-network for EEG-based brain-computer interfaces. Journal of Neural
-Engineering, 15(5), 056013.
-```
 
 ## License
 
